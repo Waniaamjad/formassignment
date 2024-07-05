@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    border-style: double;
+    border-color: rgb(196, 149, 87);
+}
+h1{
+    text-transform: uppercase;
+}
+.btn{
+    border-radius: 12px;
+    background-color: rgb(196, 149, 87);
+    border-color: rgb(235, 197, 148);
+    padding: 8px 14px;
+    font-size: 14px;
+    font-weight: bold;
+}
